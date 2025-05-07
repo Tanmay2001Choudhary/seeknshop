@@ -13,7 +13,7 @@ SeekNShop is a full-stack web application built with **Spring Boot (Java)** and 
 -  REST APIs to list and search products
 -  Fetch product details by ID
 -  Flyway for database version control (`V1__Create_products.sql`, `V2__Insert_Products.sql`)
--  PostgreSQL or H2 DB support
+-  PostgreSQL support
 -  Swagger UI for API documentation
 
 ### Frontend (React)
